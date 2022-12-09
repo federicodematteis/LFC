@@ -20,5 +20,6 @@ in LFC/include il file header azione.h (che mette in comunicazione prova_azione.
 
 update 9/12 Markov chain termalizzata a caldo e a freddo per calcolo dell'azione.
 plot di azione e accettanza durante le due termalizzazioni nella cartella img.
+next step: tuning dei parametri per ottenere accettanza=0.8 .
 
 Cheers ^.^
