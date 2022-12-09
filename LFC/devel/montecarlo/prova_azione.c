@@ -1,3 +1,5 @@
+
+
 #define MAIN_PROGRAM
 
 #include <stdlib.h>
@@ -13,7 +15,8 @@ double s;
 int j;
 
     for(j=0; j<N; j++){
-        scanf("%f",&xx[j]);
+        
+        xx[j]=exp(j);
     }
 
 s = azione();

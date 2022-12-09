@@ -19,7 +19,7 @@ all: rmxeq mkdep mkxeq
 
 # main programs and required modules 
 
-MAIN = check1 check2 check3 time1 time2 prova_azione
+MAIN = check1 check2 check3 time1 time2 prova_azione prova_dazione termalization
 
 RANDOM = ranlxs ranlxd gauss
 
@@ -27,7 +27,7 @@ START = start utils
 
 EXTRAS = 
 
-MONTECARLO = azione
+MONTECARLO = azione dazione sweep
 
 MODULES = $(RANDOM) $(START) $(MONTECARLO) $(EXTRAS) 
 
