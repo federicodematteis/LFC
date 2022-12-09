@@ -18,8 +18,10 @@ in LFC/modules la routine azione.c
 in LFC/devel/montecarlo prova_azione (lo script per fare il check della routine azione.c)
 in LFC/include il file header azione.h (che mette in comunicazione prova_azione.c con la routine azione.c)
 
-update 9/12 Markov chain termalizzata a caldo e a freddo per calcolo dell'azione.
+->Update 9/12 
+Markov chain termalizzata a caldo e a freddo per calcolo dell'azione.
 plot di azione e accettanza durante le due termalizzazioni nella cartella img.
-next step: tuning dei parametri per ottenere accettanza=0.8 .
+next step: tuning dei parametri per ottenere accettanza=0.8; le routine nuove sono : termalization.c dazione.c, entrambe in /modules/montecarlo.
+
 
 Cheers ^.^
