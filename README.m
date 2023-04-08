@@ -2,7 +2,7 @@
 
 #Federico De Matteis
 #Corso di Fisica Computazionale
-#Università degi studi du Milano Bicocca
-#Algoritmo del metropolis per l'oscillatore armonico quantistico.
+#Università degi studi di Milano Bicocca
+#Algoritmo del metropolis per un oscillatore armonico quantistico.
 
 #Cheers ^.^
