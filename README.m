@@ -4,7 +4,7 @@
 #Course in Computational Physics,
 #University of Milan Bicocca.
 #Algorithm of metropolis for a quantum harmonic oscillator.
-#Simulations anharmonic oscillator and potential double well.
-#generalization in 2 dimensions of the systems studied.
+#Simulations anharmonic oscillator and double well in the non perturbative regime.
+#generalization in 2 dimensions of this systems.
 
 #Cheers ^.^
